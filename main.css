@@ -1,0 +1,12 @@
+/*Screen Filler emulation*/
+body {
+  background-color: #e5f2ff;
+}
+
+h1 {
+  background-color: #ff2c39;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  padding: 3px;
+}
