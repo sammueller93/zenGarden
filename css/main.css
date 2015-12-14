@@ -4,9 +4,10 @@ body {
 }
 
 h1 {
-  background-color: #ff2c39;
+  background-color: #EA2E49;
   color: #ffffff;
   text-transform: uppercase;
-  font-family: sans-serif;
-  padding: 3px;
+  font-family: Verdana, sans-serif;
+  padding: 15px;
+  display: inline-block;
 }
