@@ -8,6 +8,16 @@ h1 {
   color: #ffffff;
   text-transform: uppercase;
   font-family: Verdana, sans-serif;
-  padding: 24px 12px;
+  padding: 12px 24px;
   display: inline-block;
+}
+
+h2 {
+  font-size: 8em;
+}
+
+.intro {
+  background-color: #77C4D3;
+  color: #ffffff;
+  font-family: "arial narrow";
 }
